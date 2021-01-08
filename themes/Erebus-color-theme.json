@@ -2,9 +2,12 @@
   "name": "Erebus",
   "type": "dark",
   "colors": {
+    "scrollbar.shadow": "#0d182b",
     "list.inactiveSelectionBackground": "#0b1424",
     "list.activeSelectionBackground": "#0c182e",
     "list.hoverBackground": "#0c182e",
+    "editorOverviewRuler.border": "#0b1424",
+    "editorGroup.border": "#0b1424",
     "editor.background": "#0b1424",
     "editor.foreground": "#eeffff",
     "editorGroupHeader.tabsBackground": "#0b1424",
@@ -36,6 +39,20 @@
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
         "foreground": "#EEFFFF"
+      }
+    },
+    {
+      "name": "text.html.derivative",
+      "scope": "text.html.derivative",
+      "settings": {
+        "foreground": "#00CEC7"
+      }
+    },
+    {
+      "name": "meta.object-literal.key",
+      "scope": "meta.object-literal.key",
+      "settings": {
+        "foreground": "#00CEC7"
       }
     },
     {
@@ -217,7 +234,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#FF8822"
       }
     },
     {
@@ -418,7 +435,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#FF8822"
       }
     },
     {
@@ -591,6 +608,20 @@
       "scope": ["markup.raw.block"],
       "settings": {
         "foreground": "#C792EA"
+      }
+    },
+    {
+      "name": "keyword.operators.assignment",
+      "scope": "keyword.operator.assignment",
+      "settings": {
+        "foreground": "#E48E00"
+      }
+    },
+    {
+      "name": "keyword.operator.relational",
+      "scope": "keyword.operator.relational",
+      "settings": {
+        "foreground": "#E48E00"
       }
     },
     {
