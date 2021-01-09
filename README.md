@@ -1,6 +1,6 @@
 # Erebus Theme for VS Code
 
-## Installation via VS Code
+### Installation via VS Code
 
 1. Open **Extension** sidebar panel VS Code. View → Extensions
 2. Search for Erebus
@@ -8,9 +8,9 @@
 4. Click Reload to reload editor
 5. Code → Preference → Color Theme → **Erebus**
 
-## 🎨 Color Reference
+### 🎨 Color Reference
 
-### Syntax
+#### Syntax
 
 | Color         | Hex                                                                | Usage                                      |
 | ------------- | ------------------------------------------------------------------ | ------------------------------------------ |
@@ -20,7 +20,7 @@
 | Light Green   | ![#AAE973](https://via.placeholder.com/10/AAE973?text=+) `#AAE973` | Entity Functions                           |
 | Blue Green    | ![#00CEC7](https://via.placeholder.com/10/00CEC7?text=+) `#00CEC7` | Variables                                  |
 
-### Visual Studio UI
+#### Visual Studio UI
 
 | Color           | Hex                                                                | Usage                                   |
 | --------------- | ------------------------------------------------------------------ | --------------------------------------- |
@@ -33,13 +33,13 @@
 | Light Pink      | ![#5D6167](https://via.placeholder.com/10/5D6167?text=+) `#5D6167` | Icon                                    |
 | Lightest Pink   | ![#757678](https://via.placeholder.com/10/757678?text=+) `#757678` | Button Foreground                       |
 
-### Theme Reference
+#### Theme Reference
 
 - [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
 - [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-capabilities/theming)
 - [VS Code Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
-### More Informations
+#### More Informations
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
