@@ -8,9 +8,9 @@
     4. Click Reload to reload editor
     5. Code > Preference > Color Theme > **Erebus**
 
-## Color Reference
+## 🎨 Color Reference
 
-### 🎨 Syntax
+### Syntax
 
 | Color         | Hex                                                                | Usage                                      |
 | ------------- | ------------------------------------------------------------------ | ------------------------------------------ |
@@ -18,9 +18,9 @@
 | Mustard       | ![#FF8822](https://via.placeholder.com/10/FF8822?text=+) `#FF8822` | keyword conditionals, class, Property Name |
 | Mint          | ![#91F678](https://via.placeholder.com/10/91F678?text=+) `#91F678` | Strings,                                   |
 | Light Green   | ![#AAE973](https://via.placeholder.com/10/AAE973?text=+) `#AAE973` | Entity Functions                           |
-| Blue Green    | ![#00CEC7](https://via.placeholder.com/10/00CEC7?text=+) `#00CEC7` | Variables,                                 |
+| Blue Green    | ![#00CEC7](https://via.placeholder.com/10/00CEC7?text=+) `#00CEC7` | Variables                                  |
 
-### 🎨 Visual Studio UI
+### Visual Studio UI
 
 | Color           | Hex                                                                | Usage                                   |
 | --------------- | ------------------------------------------------------------------ | --------------------------------------- |
@@ -30,8 +30,8 @@
 | Blue Violet     | ![#172134](https://via.placeholder.com/10/172134?text=+) `#172134` | List, button, quickinput, widget        |
 | Violet          | ![#222C3C](https://via.placeholder.com/10/222C3C?text=+) `#222C3C` | button hover, Picker, Input, scrollbar, |
 | Magenta         | ![#2F3645](https://via.placeholder.com/10/2F3645?text=+) `#2F3645` | Editor Selection                        |
-| Light Pink      | ![#757678](https://via.placeholder.com/10/757678?text=+) `#757678` | Button Foreground                       |
-| Lightest Pink   | ![#5D6167](https://via.placeholder.com/10/5D6167?text=+) `#5D6167` | Icon                                    |
+| Light Pink      | ![#5D6167](https://via.placeholder.com/10/5D6167?text=+) `#5D6167` | Icon                                    |
+| Lightest Pink   | ![#757678](https://via.placeholder.com/10/757678?text=+) `#757678` | Button Foreground                       |
 
 ### Theme Reference
 
