@@ -611,6 +611,20 @@
       }
     },
     {
+      "name": "support.class.builtin",
+      "scope": "support.class.builtin",
+      "settings": {
+        "foreground": "#FF7700"
+      }
+    },
+    {
+      "name": "storage.type.class",
+      "scope": "storage.type.class",
+      "settings": {
+        "foreground": "#FF7700"
+      }
+    },
+    {
       "name": "keyword.operators.assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
