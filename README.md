@@ -1,26 +1,45 @@
-# README
+# Erebus Theme for VS Code
 
-## 🎨 Color Reference
+## Installation via VS Code
 
-| Color         | Hex                                                                 |
-| ------------- | ------------------------------------------------------------------- |
-| Navy Blue     | ![#091324](https://via.placeholder.com/10/091324`?text=+) `#091324` |
-| Light Navy    | ![#0B162B](https://via.placeholder.com/10/0B162B?text=+) `#0B162B`  |
-| Yellow Orange | ![#F28700](https://via.placeholder.com/10/F28700?text=+) `#F28700`  |
-| Mustard       | ![#FF7700](https://via.placeholder.com/10/FF7700?text=+) `#FF7700`  |
-| Mint          | ![#91F678](https://via.placeholder.com/10/91F678?text=+) `#91F678`  |
-| blue green    | ![#00D8CA](https://via.placeholder.com/10/00D8CA?text=+) `#00D8CA`  |
-| White         | ![#E2E09F](https://via.placeholder.com/10/E2E09F?text=+) `#E2E09F`  |
+    1. Open **Extension** sidebar panel VS Code. View > Extensions
+    2. Search for Erebus
+    3. Click Install to install it.
+    4. Click Reload to reload editor
+    5. Code > Preference > Color Theme > **Erebus**
 
-## This is the README for your extension "erebus-theme"
+## Color Reference
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### 🎨 Syntax
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+| Color         | Hex                                                                | Usage                                      |
+| ------------- | ------------------------------------------------------------------ | ------------------------------------------ |
+| Yellow Orange | ![#F28700](https://via.placeholder.com/10/F28700?text=+) `#E48E00` | Object Literals Keys, Html Tags,           |
+| Mustard       | ![#FF8822](https://via.placeholder.com/10/FF8822?text=+) `#FF8822` | keyword conditionals, class, Property Name |
+| Mint          | ![#91F678](https://via.placeholder.com/10/91F678?text=+) `#91F678` | Strings,                                   |
+| Light Green   | ![#AAE973](https://via.placeholder.com/10/AAE973?text=+) `#AAE973` | Entity Functions                           |
+| Blue Green    | ![#00CEC7](https://via.placeholder.com/10/00CEC7?text=+) `#00CEC7` | Variables,                                 |
 
-### For more information
+### 🎨 Visual Studio UI
+
+| Color           | Hex                                                                | Usage                                   |
+| --------------- | ------------------------------------------------------------------ | --------------------------------------- |
+| Dark blue       | ![#0b1424](https://via.placeholder.com/10/0b1424?text=+) `#0b1424` | Editor, Tab,                            |
+| Navy Blue       | ![#091324](https://via.placeholder.com/10/091324?text=+) `#091324` | Sidebar, Activity Bar, Minimap          |
+| slate Navy Blue | ![#0d182b](https://via.placeholder.com/10/0d182b?text=+) `#0d182b` | Dropdown                                |
+| Blue Violet     | ![#172134](https://via.placeholder.com/10/172134?text=+) `#172134` | List, button, quickinput, widget        |
+| Violet          | ![#222C3C](https://via.placeholder.com/10/222C3C?text=+) `#222C3C` | button hover, Picker, Input, scrollbar, |
+| Magenta         | ![#2F3645](https://via.placeholder.com/10/2F3645?text=+) `#2F3645` | Editor Selection                        |
+| Light Pink      | ![#757678](https://via.placeholder.com/10/757678?text=+) `#757678` | Button Foreground                       |
+| Lightest Pink   | ![#5D6167](https://via.placeholder.com/10/5D6167?text=+) `#5D6167` | Icon                                    |
+
+### Theme Reference
+
+- [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
+- [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-capabilities/theming)
+- [VS Code Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+### More Informations
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)

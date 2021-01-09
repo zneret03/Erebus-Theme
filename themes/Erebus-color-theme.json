@@ -2,10 +2,27 @@
   "name": "Erebus",
   "type": "dark",
   "colors": {
-    "scrollbar.shadow": "#0d182b",
-    "list.inactiveSelectionBackground": "#0b1424",
-    "list.activeSelectionBackground": "#0c182e",
+    "settings.headerForeground": "#00D8CA",
+    "icon.foreground": "#5D6167",
+    "button.background": "#172134",
+    "button.foreground": "#757678",
+    "button.hoverBackground": "#222C3C",
+    "pickerGroup.border": "#222C3C",
+    "quickInput.background": "#172134",
+    "dropdown.border": "#003953",
+    "dropdown.background": "#0d182b",
+    "input.background": "#222C3C",
+    "scrollbarSlider.background": "#222C3C",
+    "scrollbarSlider.activeBackground": "#222C3C",
+    "scrollbarSlider.hoverBackground": "#2F3645",
+    "scrollbar.shadow": "#091324",
+    "list.inactiveSelectionBackground": "#172134",
+    "list.activeSelectionBackground": "#222C3C",
     "list.hoverBackground": "#0c182e",
+    "editor.selectionBackground": "#3A424D",
+    "editor.selectionHighlightBackground": "#3A424D",
+    "editorWidget.background": "#172134",
+    "editorWidget.border": "#2F3645",
     "editorOverviewRuler.border": "#0b1424",
     "editorGroup.border": "#0b1424",
     "editor.background": "#0b1424",
@@ -211,7 +228,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#F3E689"
+        "foreground": "#91F678"
       }
     },
     {
