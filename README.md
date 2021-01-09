@@ -2,11 +2,11 @@
 
 ## Installation via VS Code
 
-    1. Open **Extension** sidebar panel VS Code. View > Extensions
-    2. Search for Erebus
-    3. Click Install to install it.
-    4. Click Reload to reload editor
-    5. Code > Preference > Color Theme > **Erebus**
+1. Open **Extension** sidebar panel VS Code. View > Extensions
+2. Search for Erebus
+3. Click Install to install it.
+4. Click Reload to reload editor
+5. Code > Preference > Color Theme > **Erebus**
 
 ## 🎨 Color Reference
 
