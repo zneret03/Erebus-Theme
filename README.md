@@ -2,15 +2,15 @@
 
 ## 🎨 Color Reference
 
-| Color         | Hex                                                                |
-| ------------- | ------------------------------------------------------------------ |
-| Navy Blue     | ![#091324](https://via.placeholder.com/10/0a192f?text=+) `#091324` |
-| Light Navy    | ![#0B162B](https://via.placeholder.com/10/0a192f?text=+) `#0B162B` |
-| Yellow Oragne | ![#F28700](https://via.placeholder.com/10/303C55?text=+) `#F28700` |
-| Mustard       | ![#FF7700](https://via.placeholder.com/10/8892b0?text=+) `#FF7700` |
-| Mint          | ![#91F678](https://via.placeholder.com/10/a8b2d1?text=+) `#91F678` |
-| blue green    | ![#00D8CA](https://via.placeholder.com/10/e6f1ff?text=+) `#00D8CA` |
-| White         | ![#E2E09F](https://via.placeholder.com/10/ccd6f6?text=+) `#E2E09F` |
+| Color         | Hex                                                                 |
+| ------------- | ------------------------------------------------------------------- |
+| Navy Blue     | ![#091324](https://via.placeholder.com/10/091324`?text=+) `#091324` |
+| Light Navy    | ![#0B162B](https://via.placeholder.com/10/0B162B?text=+) `#0B162B`  |
+| Yellow Orange | ![#F28700](https://via.placeholder.com/10/F28700?text=+) `#F28700`  |
+| Mustard       | ![#FF7700](https://via.placeholder.com/10/FF7700?text=+) `#FF7700`  |
+| Mint          | ![#91F678](https://via.placeholder.com/10/91F678?text=+) `#91F678`  |
+| blue green    | ![#00D8CA](https://via.placeholder.com/10/00D8CA?text=+) `#00D8CA`  |
+| White         | ![#E2E09F](https://via.placeholder.com/10/E2E09F?text=+) `#E2E09F`  |
 
 ## This is the README for your extension "erebus-theme"
 
