@@ -1,4 +1,7 @@
-# Erebus Theme for VS Code
+<div align="center">
+    <img src="https://github.com/zneret03/Erebus-Theme/blob/main/static/Logo.png" width="100"/>
+</div>
+<h1 align="center">Erebus Theme for VS Code</h1>
 
 ### Installation via VS Code
 
