@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/zneret03/Erebus-Theme/blob/main/static/Logo.png" width="100"/>
+    <img src="https://github.com/zneret03/Erebus-Theme/blob/main/static/Logo.png" width="200"/>
 </div>
 <h1 align="center">Erebus Theme for VS Code</h1>
 
