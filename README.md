@@ -4,10 +4,9 @@
 <h1 align="center">
 Erebus Theme for VS Code
 </h1>
-<p align="center">A dark blue visual studio code theme</p>
-
 </div>
 
+<p>A dark blue visual studio code theme</p>
 ![demo](https://github.com/zneret03/Erebus-Theme/blob/main/images/Preview.png)
 
 ### Installation via VS Code
