@@ -3,6 +3,8 @@
 </div>
 <h1 align="center">Erebus Theme for VS Code</h1>
 
+![demo](https://github.com/zneret03/Erebus-Theme/blob/main/images/Preview.png)
+
 ### Installation via VS Code
 
 1. Open **Extension** sidebar panel VS Code. View → Extensions
