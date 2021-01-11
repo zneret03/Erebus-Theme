@@ -1,7 +1,7 @@
 {
     "name": "erebus",
     "displayName": "Erebus",
-    "description": "",
+    "description": "A dark blue theme for Vistual Studio Code",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
