@@ -1,7 +1,11 @@
 <div align="center">
     <img src="https://github.com/zneret03/Erebus-Theme/blob/main/images/Logo.png" width="150"/>
 </div>
-<h1 align="center">Erebus Theme for VS Code</h1>
+<h1 align="center">
+    Erebus Theme for VS Code
+</h1>
+<br/>
+<p align="center">A dark blue visual studio code theme</p>
 
 ![demo](https://github.com/zneret03/Erebus-Theme/blob/main/images/Preview.png)
 
