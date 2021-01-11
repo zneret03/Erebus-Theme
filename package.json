@@ -1,15 +1,27 @@
 {
-    "name": "erebus-theme",
-    "displayName": "Erebus-Theme",
+    "name": "erebus",
+    "displayName": "Erebus",
     "description": "",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
-    "icon": "static/Logo.png",
+    "icon": "images/Logo.png",
+    "repository": {
+        "git" : "git",
+        "url" : "https://github.com/zneret03/Erebus-Theme"
+    },
+    "bugs": {
+        "url": "https://github.com/zneret03/Erebus-Theme/issues"
+    },
     "publisher": "Erebus",
     "categories": [
         "Themes"
+    ],
+    "keywords" :[
+        "Erebus",
+        "Erebus-Theme",
+        "vscode Erebus"
     ],
     "contributes": {
         "themes": [
