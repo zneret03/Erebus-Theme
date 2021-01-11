@@ -9,7 +9,7 @@ Erebus Theme for VS Code
 
 A dark blue visual studio code theme
 
-[![demo](https://github.com/zneret03/Erebus-Theme/blob/main/images/Preview.png)]
+![demo](https://raw.githubusercontent.com/zneret03/Erebus-Theme/main/images/Preview.png)
 
 ### Installation via VS Code
 
