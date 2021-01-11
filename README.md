@@ -7,7 +7,6 @@ Erebus Theme for VS Code
 </div>
 
 <br/>
-<br/>
 
 A dark blue visual studio code theme
 
